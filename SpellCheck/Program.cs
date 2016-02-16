@@ -121,7 +121,7 @@ namespace SpellCheck
                     {
                         sw.WriteLine(formated);
                     }
-                } while (string.IsNullOrEmpty(word));
+                } while (!string.IsNullOrEmpty(word));
             }
         }
 

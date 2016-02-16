@@ -31,6 +31,8 @@ namespace SpellCheck
                 }
                 _output.Write(_output.NewLine);
             }
+            _output.WriteLine();
+            _output.WriteLine();
         }
     }
 }
