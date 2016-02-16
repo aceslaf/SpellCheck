@@ -1,0 +1,3 @@
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/ErrorReporter.cs
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/IWordDisplay.cs
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/Program.cs

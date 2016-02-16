@@ -1,0 +1,11 @@
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/allFiles.txt
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/App.config
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/bin
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/Core
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/ErrorReporter.cs
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/IWordDisplay.cs
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/obj
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/packages.config
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/Program.cs
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/Properties
+/C/Users/Ace/Documents/Visual Studio 2015/Projects/SpellCheck/SpellCheck/SpellCheck.csproj
